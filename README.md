@@ -1,27 +1,27 @@
 # FOLK: First-Order-Logic (FOL) Guided Knowledge-Grounded Reasoning for Claim Verification
 
-**Code and data will be released here upon acceptance**
+[Paper](https://arxiv.org/abs/2310.05253) | [Installation](#installation) | [To Run](#to-run) | [Results](#results)
+
 FOLK is a claim verification model that can verify complex claims and generate explanations without the need for annotated evidence using Large Language Models (LLMs).
 
-## FOLK Overview
+If our code or data helps you in your research, please kindly cite us:
 
-![The general framework of ProgramFC](./Figures/framework.png)
+```bibtex
+@article{wang2023explainable,
+  title={Explainable Claim Verification via Knowledge-Grounded Reasoning with Large Language Models},
+  author={Wang, Haoran and Shu, Kai},
+  journal={arXiv preprint arXiv:2310.05253},
+  year={2023}
+}
+```
 
 ## Installation
-
-Requires Python 3.9 to run.
 
 Install conda environment from `environment.yml` file.
 
 ```sh
 conda env create -n folk --file environment.yml
 conda activate folk
-```
-
-Create folder to store trained models under project directory:
-
-```sh
-mkdir trained_models
 ```
 
 ## To Run
@@ -78,4 +78,12 @@ python evaluation.py \
     --version "V1.0"
 ```
 
-## Reference
+## Results
+
+The experiment results reported in Table 2 from the paper is listed in ```Final_Results``` folder. To evaluate the results, please execute the following script:
+
+```sh
+./results.sh
+```
+
+The ProgramFC baseline is contained in ```ProgramFC``` folder. The code is modified from the original repo to process dataset used in the paper.

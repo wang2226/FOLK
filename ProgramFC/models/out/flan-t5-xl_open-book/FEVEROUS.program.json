@@ -1,0 +1,602 @@
+[
+  {
+    "id": 5719,
+    "claim": "The Franz Kafka Videogame has garnered multiple accolades such as the Game of the Year from Intel Level Up Game Developer Contest in 2015, and Best Song/Score - Mobile Video Game by the Hollywood Music in Media Awards in 2017.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 39245,
+    "claim": "1920 Rhode Island State Rams football team lost four games and tied four games between September 25th and November 20th.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 33404,
+    "claim": "The 2004 North Carolina lieutenant governor election saw Republican opposition Jim Snyder, who only had 1,453,705, which was only 42.78% of the total lose to incumbent Democratic candidate Bev Perdue who had 1,888,397 votes, which was 55.57% of the total.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 32938,
+    "claim": "Battle Heart won more money in Princess Pat Stakes in 1958 than Fulvuos and Supple.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 35803,
+    "claim": "The 1922 Malaya Cup Southern Section playoff was participated by four teams led by Singapore with a score of six points.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 21242,
+    "claim": "Kathy Mattea discography has more than three titles with peak positions, one of which it titled A Collection of Hits.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 7302,
+    "claim": "During the 1967 Italian Grand Prix, only one driver  finished 67 laps, while four out of the 18 drivers were able to finish 68 laps and among which is John Surtees, a four-time 500 cc motorcycle World Champion (1956, 1958, 1959 and 1960).",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 14881,
+    "claim": "The 1959 Eastern Michigan Hurons football team lost all its games except for the one against the Illinois State\ton October 7.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 4907,
+    "claim": "Vaade Veedu has eight songs, one of which is Cheeraleni Chinnadana.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 4229,
+    "claim": "Asiacom Philippine, Inc. stands as the major shareholder of Globe Telecom, with 50.85% of total shares.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 3679,
+    "claim": "List of power stations in Bahrain include Al Dur have the highest capacity of 1336, in relation to Sitrah which has the lowest capacity of 125",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 7420,
+    "claim": "Meagen Fay made movies from 1988 to 2016.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 13367,
+    "claim": "The production of Italian car manufacturer Lancia slowed down over the last decade, from 300,087 cars in 1990 to only 58,759 in 2019.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 20968,
+    "claim": "Ross Callachan played for the Raith Rovers for eight seasons, but he only played for St. Johnstone for four.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 1326,
+    "claim": "The Fort Worth Museum of Science and History was closed in 2007 for renovations and was moved into a new 166,000 square-foot building in 2009.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 27724,
+    "claim": "Mole sauce provides more than 41 grams of fat and carbohydrates.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 3680,
+    "claim": "A single ethnic group in Mojde\u017e accounts for more than half of its population.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 18565,
+    "claim": "Arvell Nelson's highest completion percentage when passing a ball (Pct) was 80% in 2013, while his lowest (Pct)  was 53.8%  in 2014.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 4601,
+    "claim": "Nij\u014d Michihira had two wives and three children during his short lifetime of 47 years.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 4843,
+    "claim": "Convergence of Democrats of Navarre has won seats in four elections\u2014unlike with the last election they joined led by Jos\u00e9 Andr\u00e9s Burguete in 2011\u2014all of which are led by Juan Cruz Alli.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 7609,
+    "claim": "Held on May 21, 2008, the Georgian parliamentary election was observed by a total of 45 organizations and had 3,458,020 registered voters.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 1579,
+    "claim": "The Ball Street Journal received a rating of (81/100) from Okayplayer, and (8/10) from RapReviews.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 1150,
+    "claim": "John McCain won 16 delegates during the 2008 Washington Republican presidential primary, which is eight more than Mike Huckabee won.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 1701,
+    "claim": "The 565th Strategic Missile Squadron of the United States Air Force participated in nine campaigns from June 16, 1943, until May 1945.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 15785,
+    "claim": "Pasadena-based Saybrook University's\u00a0enrolment during Fall 2016 comprised of both genders, with 73.8% female enrollees from the total 622 intakes.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 4464,
+    "claim": "Among the three Diocesan Metropolitans that were assigned in  Madras Orthodox Diocese, H.G. Zachariah Mar Dionysius served the longest time from 1979 to 1997 compared to the two that served for less than 13 years.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 27929,
+    "claim": "Meagen Fay made movies for over 20 years and was best known for her role in \"That's My Boy\".",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 2998,
+    "claim": "Yuto Mori played in two clubs between 2014 and 2017, the most recent of which is Gamba Osaka U-23.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 2463,
+    "claim": "M36 tank destroyer was designed by the U.S. Army Ordnance Department in 1943, with a capacity to carry 5 (Commander, gunner, loader, driver, assistant driver), and a maximum speed of 26 mph (42 km/h) on road.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 28161,
+    "claim": "Donna Burns received more votes than Peter Matic during the 2020 Brisbane City Council election in Paddington Ward.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 13280,
+    "claim": "Dedryck Boyata had a total of 20 appearances in his career, and his highest number of appearances was in 2018, and that is even higher than all his other appearances put together.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 5050,
+    "claim": "In the season of 2005-06 in the La Liga, the teams Mallorca, Betis and Espanyol obtained ten wins.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 4302,
+    "claim": "Aero Asia International served nine Pakistani cities.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 28738,
+    "claim": "Dean Esperanza served longer as the President of Quezon City Academy which teaches Adobe Photoshop (created in 1988)  than Tomas Ongoco and Florentina Gonzales.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 50266,
+    "claim": "Adam was voted outcast by four contestants in the first voting of\u00a0Unan1mous, an American reality program aired on the Fox Network.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 7925,
+    "claim": "Tom Steven (born 5 September 1954) played with three clubs between 1972 and 1977, one of which was Forfar Athletic where he made the most appearances.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 19437,
+    "claim": "In the list of Mushishi episodes, the next passage starts with episode 1 titled \"Banquet at the Forest's Edge\" followed by episode 2 titled \"The Warbling Sea Shell\".",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 8277,
+    "claim": "Marie De Becker appeared in ten films from 1942 to 1946.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 11558,
+    "claim": "The Spend a Buck Handicap horse race was won in 2011 by Mad Flatter, beating his own time set in 2010 with the same Jockey and Trainer.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 2802,
+    "claim": "Rusty Rivets' 11-minute long first episode of Season 3 titled \"Rusty's Dino Island\" is directed by Paul Brown and written by Scott Gray, and aired last March 2, 2020 with 0.27 million U.S. viewers; which is lower than the 0.36 million U.S. viewers of \"Rusty's Tiny Adventure\".",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 8760,
+    "claim": "Dutch speed skater Carien Kleibeuker competed in seven women's speed skating events since 2015.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 15693,
+    "claim": "Shattered Angels had five Absolute Angels, one of which was Cla\u00edomh Solais.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 18205,
+    "claim": "During the 1943 Chicago mayoral election in which the voter turnout was considered light and Kelly made a solid victory, Democratic candidate John S Boyle received more votes than Billy Pratts.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 12985,
+    "claim": "Jeremy Toljan earned a total of one goal during his three seasons with 1899 Hoffenheim II under the Regionalliga S\u00fcdwest division.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 1338,
+    "claim": "Teldenia strigosa was described by Warren in 1903 and was found in New Guinea and Goodenough Island, the length of the forewings is around 14 mm.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 15717,
+    "claim": "Spanish footballer manager Fernando Jubero managed five teams from 2013 to the present, currently working with Japanese association football team Jubilo Iwata.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 2179,
+    "claim": "The Vijay Award for Best Choreographer was awarded to Brinda twice between 2006 and 2017.",
+    "gold": "SUPPORTS",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 42437,
+    "claim": "In the 1996 season, the San Francisco 49ers finished with a record of 12-4, same as Carolina Panthers, then followed by St. Louis Rams with 6 wins and 10 losses.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 9047,
+    "claim": "The album Break Up the Concrete received an average rating of 7.3 from Paste, Pitchfork and Spin.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 15591,
+    "claim": "Nathan Ellington has played competitive football for nine organizations.",
+    "gold": "SUPPORTS",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 7087,
+    "claim": "Ragged Isle had five episodes, one of which was titled \"11 O'Clock Tick Tock\".",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 25972,
+    "claim": "Nusrat Jahan Ahmadiyya College of Education is a teacher education college in Wa, a town and is the capital of Wa Municipal District and the Upper West Region of north Ghana, has had only one principal in its history since 1982.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 3788,
+    "claim": "Islam Karimov was the longest-running president of Uzbekistan who served for 25 years and one day.",
+    "gold": "REFUTES",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 6593,
+    "claim": "The Ice Hockey World Competition held in Czech Republic in 2015 had 864 more attendees than the Ice Hockey World Competition held in Germany and France.",
+    "gold": "REFUTES",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 20052,
+    "claim": "Brent Faiyaz, an American singer born in 1995, has released twelve singles.",
+    "gold": "REFUTES",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 44272,
+    "claim": "Derek Landmesser was awarded only once in his entire career; and that award was the CHL Most Outstanding Defenceman from 2000 to 2001.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 11337,
+    "claim": "In the 2017 World Series of Poker, David Pham failed to place inside the top three.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 6650,
+    "claim": "Horowpothana Polling Division took place over seven years, and was UPFA is 2010.",
+    "gold": "REFUTES",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 396,
+    "claim": "The Galle Polling Division is in the Galle Electoral District in Sri Lanka, with a 2012 total population of 101,749 covering 11,860 square miles; and Galle matched the Parliamentary Election results of the country five our of seven times.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 7197,
+    "claim": "FitzHerbert baronets was created on 22 January 1784 for William FitzHerbert who descended from a Norman knight and are related to the FitzHerberts of Swynnerton Hall, Staffordshire which has a population of 879,560.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 4892,
+    "claim": "Horowpothana Polling Division took place over seven years, and was UPFA (United People's Freedom Alliance) is 2010.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 517,
+    "claim": "Brent Faiyaz has had several songs, such as \"Trust\" and \"Allure\" chart at number one in the UK charts.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 8129,
+    "claim": "Agglomeration community of Le Havre has seventeen municipality including Rolleville, with a population of around 7000 hab",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 372,
+    "claim": "1965 British Grand Prix had 24 racers one of them was Jim Clark.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 19862,
+    "claim": "Bertrand Traor\u00e9 is a professional footballer from Burkina Faso that played for club Chelsea in the 2015-16 season with 51 appearances and 20 goals, Lyon from 2017-20 for 125 appearances and 33 goals, and Aston Villa (one of the founder members of the Football League in 1888 and of the Premier League in 1992) in 2020-21 for 10 appearances and 1 goal.",
+    "gold": "REFUTES",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 6550,
+    "claim": "mpires Apart has a single ancient powerful artifact that can only be found at the entrance of the village and it is given freely to all the villagers.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 2612,
+    "claim": "Konstantin Rausch appeared in nine seasons of the Bundesliga Division but only appeared in three seasons of the Russian Premier League Division.",
+    "gold": "REFUTES",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 530,
+    "claim": "In 2011, China had a total population of 1,210,854,977, more than 35,000 times compared to (of East Delhi), which only has 34,409.",
+    "gold": "REFUTES",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 14948,
+    "claim": "Edilson's career took him to the Brazil National Team, the most successful team in the FIFA World Cup which it won five times including in 2002, Edilson's last year on the team.",
+    "gold": "REFUTES",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 5851,
+    "claim": "The List of television stations in Andalusia has four channels and is made up of the Digital and analog signal that has coverage in Andalusia, Europe, Almeria and Cadiz.",
+    "gold": "REFUTES",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 843,
+    "claim": "Ruth Garcia played in ten international events from 2008 to 2015, including the UEFA Women's Euro and FIFA Women's World Cup.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 17210,
+    "claim": "The 2019 Big Twelve Conference football season was the 24th season of Big Twelve conference football; and in preseason recruiting, nine out of ten of the teams recruited at least 20 signees.",
+    "gold": "REFUTES",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 19350,
+    "claim": "Orchard Hill Observatory at University of Massachusetts Amherst in Massachusetts was established in 1965 and has an altitude of 412 feet.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 32861,
+    "claim": "The MSU Faculty of Computational Mathematics and Cybernetics created three departments in 1970.",
+    "gold": "REFUTES",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 11720,
+    "claim": "The 565th Strategic Missile Squadron participated in nine campaigns from June 16, 1943, until May 1945.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 27504,
+    "claim": "Out of nine schools that join the Frisco League, two of which are from Pulaski county, these schools are Dixon High School and Iberia High School.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 28844,
+    "claim": "The Deniyaya Polling Division has not exceeded an MAE or mean absolute error(a measure of errors between paired observations expressing the same phenomenon) of 5% relative to the Matara Electoral District.",
+    "gold": "REFUTES",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 16155,
+    "claim": "Nurlan Kapparov served in the the Soviet Army from 1987 to 1989 before founding the company Accept in 1990.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 403,
+    "claim": "McReynolds, born in Chicago, Illinois, on October 17, 1989, as Jonathan Caleb McReynolds, was raised by a single mother with love and support from his family, church members and his pastor at New Original Church of God in Christ.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 2480,
+    "claim": "With a total population of more than 20,000, Dighawani is located in the state of Madhya Pradesh, in the district of Chhindwara, India.",
+    "gold": "REFUTES",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 24056,
+    "claim": "Cloverdale Cash Spiel's Men's Division, which uses a round-robin or all-play-all format, was won by Russian teams five out of six times in 2011 to 2016.",
+    "gold": "REFUTES",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 1278,
+    "claim": "The 1938 Colgate Red Raiders football team won against NYU in a 13-7 game held on November 11.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 5587,
+    "claim": "Rodrigo Aliendro played on Club Chacarita Junior for six season but did not score a single goal in his time there.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 3907,
+    "claim": "During the 2019 Homagama Polling Division in Sri Lanka which Homagama matched the final country six out of eight times, the percent of MAE was smaller than in 2015.",
+    "gold": "REFUTES",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 25692,
+    "claim": "The percentage of the population of Khuangleng, which belong to a scheduled caste, is 40 percent while the percentage, which are illiterate, is 80 percent.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 25869,
+    "claim": "Asiacom Philippine, Inc. stands as the major shareholder of the Philippines' major telecommunications services provider Globe Telecom, with 70.8% of total shares.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 12648,
+    "claim": "The 1975 United States Grand Prix saw Austria's Niki Lauda finish first with a time of 1:42:58.175, followed by Emerson Fittipaldi of Brazil, 4.943 seconds behind, with Germany's Jochen Mass and UK's James Hunt 47.6 and 49.4 seconds behind, respectively.",
+    "gold": "REFUTES",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 5068,
+    "claim": "The Sunset Reservoir (North Basin) has generated more than 40,000 MW\u00b7h for five years starting 2010.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 40224,
+    "claim": "Trail Blazers regular-season had a less attendance 1971-1972 and 1972-1973 season than in 1970-71 season.",
+    "gold": "REFUTES",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 1650,
+    "claim": "Ahmed Elmohamady scored a career total of 30 goals with twelve of those goals made while he was playing for ENPPI, a club which has won the Egypt Cup twice, once in 2004-05 and again in 2010-2011.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 15595,
+    "claim": "Lee Boon Chye, elected four times to the Parliament of Malaysia, renounced the People's Justice Party, a reformist political party in Malaysia.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 42679,
+    "claim": "The Canton that has the highest numbers of Croats population is in Central Bosnia while the lowest population of Croats is in Posavina Canton.",
+    "gold": "REFUTES",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 12866,
+    "claim": "\"The Telltale Head\" is the ninth episode of The Simpsons' first season and was directed by Rich Moore.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 9973,
+    "claim": "Bay of Arguin (or Baie d'Arguin in French) measures 14 km (8.1 mi) long and 20 km (twelve mi) wide.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 36242,
+    "claim": "During the men's portion of the European Figure Skating Championships held in Bonn, German Empire on January 22, 1905, Martin Gordan from the German Empire ranked last while Douglas Adams from the United Kingdom ranked first.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 32829,
+    "claim": "In the Japanese Roller Hockey National Championship the Seibu Club has the most number of championships which was eleven and the Tokyo Club has the least which was one.",
+    "gold": "REFUTES",
+    "prediction": "SUPPORTS"
+  },
+  {
+    "id": 4669,
+    "claim": "Francesca Hong, who gathered a total of 35, 731 votes in at the 2020 General Election, came at second to Republican candidate Patrick Hull.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 30776,
+    "claim": "Thin Black Duke, the seventh studio album by American experimental rock band Oxbow, has an aggregate score of nine out of ten in Metacritic.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 15500,
+    "claim": "Ong Ewe Hock played seven tournaments at the IBF World Grand Prix wherein he was only able to defeat Indonesian Taufik Hidayat at the 2000 Indonesian Open.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  },
+  {
+    "id": 19933,
+    "claim": "Tony Jamieson has made a total of 30 appearances in his career and scored zero goals.",
+    "gold": "REFUTES",
+    "prediction": "REFUTES"
+  }
+]
