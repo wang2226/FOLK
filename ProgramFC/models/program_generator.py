@@ -149,7 +149,7 @@ def parse_args():
     parser.add_argument(
         "--api_key",
         type=str,
-        default="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",
+        default="OPENAI KEY",
     )
     parser.add_argument("--model_name", type=str, default="text-davinci-003")
     parser.add_argument("--stop_words", type=str, default="# The claim is")
