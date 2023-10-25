@@ -24,6 +24,8 @@ conda env create -n folk --file environment.yml
 conda activate folk
 ```
 
+Please add your OpenAI and [SerpApi](https://serpapi.com/) key in ```keys.py``` file.
+
 ## To Run
 
 To decompose claims:
@@ -80,7 +82,7 @@ python evaluation.py \
 
 ## Results
 
-The experiment results reported in Table 2 from the paper is listed in ```Final_Results``` folder. To evaluate the results, please execute the following script:
+The experiment results reported in Table 2 from the paper are listed in ```Final_Results``` folder. To evaluate the results, please execute the following script:
 
 ```sh
 ./results.sh
